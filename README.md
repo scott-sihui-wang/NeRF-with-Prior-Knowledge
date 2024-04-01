@@ -4,6 +4,10 @@
 
 This project is hosted on `Colab`. Please follow the [link](https://drive.google.com/drive/folders/1oJkk1f5hWw_F-ndAl_hFj6-5HYAAj4gq?usp=sharing) to check out the full details of this project. Please also find the project report [here](CMPT985_Final_Report.pdf).
 
+**Topics:** _Neural Radiance Fields (NeRF)_, _Rendering_
+
+**Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Jupyter Lab_, _Colab_
+
 ## 2. Results
 
 ## 3. Acknowledgement
