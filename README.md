@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-
+This project is hosted on `Colab`.
 
 ## 2. Results
 
