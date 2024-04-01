@@ -1,4 +1,4 @@
-# NeRF-with-Prior-Knowledge
+# NeRF with Prior Knowledge
 
 ## 1. Introduction
 
