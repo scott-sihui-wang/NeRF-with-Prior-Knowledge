@@ -11,3 +11,5 @@ This project is hosted on `Colab`. Please follow the [link](https://drive.google
 ## 2. Results
 
 ## 3. Acknowledgement
+
+We acknowledge the use of codes from [CodeNeRF](https://github.com/wbjang/code-nerf), [PixelNeRF](https://github.com/sxyu/pixel-nerf), and [VisionNeRF](https://github.com/ken2576/vision-nerf).
