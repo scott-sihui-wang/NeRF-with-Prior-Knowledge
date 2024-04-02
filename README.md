@@ -6,11 +6,16 @@ This project is hosted on `Colab`. Please follow the [link](https://drive.google
 
 ## 1.1 Motivation
 
-While neural radiance fields (NeRF) have achieved great success in novel view synthesis with surprisingly simple network design, generalization remains a problem for image synthesizing in novel views. How to utilize encoding of extra information, i.e., prior knowledge, to improve the quality of synthesized images in novel views, therefore becomes the interest of my project.
+While neural radiance fields (NeRF) have achieved great success in novel view synthesis with surprisingly simple network design, generalization remains a problem for image synthesizing in novel views. How to utilize encoding of extra information, i.e., _prior knowledge_, to improve the quality of synthesized images in novel views, therefore becomes the interest of my project.
 
 ## 1.2 Tasks of the Project
 
+Recent variations of NeRF, such as `CodeNeRF`, `PixelNeRF`, and `VisionNeRF`, all use encoding of extra information to improve models' generalizability. As `VisionNeRF` uses `Vision Transformer` which enables modelling of long-range dependencies, it is believed that `VisionNeRF` might be more effective in boosting the model's generalization abilities.
 
+In this project, my goals are:
+
+- Test `VisionNeRF` on datasets to collect evidence if `VisionNeRF` has better generalization ability or not;
+- Test and compare `CodeNeRF` and `PixelNeRF` on simple and complex datasets, and analysis their generalization abilities.
 
 **Topics:** _Neural Radiance Fields (NeRF)_, _Rendering_
 
