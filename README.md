@@ -6,7 +6,7 @@ This project is hosted on `Colab`. Please follow the [link](https://drive.google
 
 ## 1.1 Motivation
 
-
+While neural radiance fields (NeRF) have achieved great success in novel view synthesis with surprisingly simple network design, generalization remains a problem for image synthesizing in novel views. How to utilize encoding of extra information, i.e., prior knowledge, to improve the quality of synthesized images in novel views, therefore becomes the interest of my project.
 
 ## 1.2 Tasks of the Project
 
