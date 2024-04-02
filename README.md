@@ -23,6 +23,10 @@ In this project, my goals are:
 
 ## 2. Results
 
+Here are some results of my experiments:
+
+
+
 ## 3. Acknowledgement
 
 We acknowledge the use of codes from [CodeNeRF](https://github.com/wbjang/code-nerf), [PixelNeRF](https://github.com/sxyu/pixel-nerf), and [VisionNeRF](https://github.com/ken2576/vision-nerf).
