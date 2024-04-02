@@ -25,7 +25,21 @@ In this project, my goals are:
 
 Here are some results of my experiments:
 
+`VisionNeRF`'s category-specific view synthesis on cars:
 
+![VisionNeRF](/demo/VisionNeRF.png)
+
+`PixelNeRF`'s category-specific view synthesis on cars:
+
+![PixelNeRF](/demo/PixelNeRF.png)
+
+`CodeNeRF`'s category-specific view synthesis on cars:
+
+![CodeNeRF](/demo/CodeNeRF.png)
+
+`PixelNeRF`'s view synthesis on real-world scenes:
+
+![PixelNeRF, Real World](/demo/PixelRealWorld.png)
 
 ## 3. Acknowledgement
 
